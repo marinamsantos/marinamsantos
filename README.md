@@ -1,7 +1,7 @@
 ## Olá! Me chamo Marina Santos 👋
 
-- 🔭 Procuro trabalho como Desenvolvedora Front-end
-- 🌱 Estou estudando JavaScript
+- 🔭 Desenvolvedora Back-end no BV
+- 🌱 Estou estudando Java
 - 📫 Contate-me pelo email: marinamsantosmms@gmail.com
 
 ##
