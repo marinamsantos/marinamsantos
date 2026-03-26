@@ -1,8 +1,8 @@
 ## Olá! Me chamo Marina Santos 👋
 
-- 🔭 Desenvolvedora FullStack
-- 🌱 Estou estudando Java
-- 📫 Contate-me pelo email: marinamsantosmms@gmail.com
+- 🔭 Analista de Dados júnior
+- 🌱 Estou estudando Ciência de Dados
+- 📫 Contate-me pelo email: marinasantosmms@gmail.com
 
 ##
 
