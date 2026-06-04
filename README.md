@@ -1,7 +1,7 @@
 ## Olá! Me chamo Marina Santos 👋
 
 - 🔭 Analista de Dados júnior
-- 🌱 Estou estudando Ciência de Dados
+- 🌱 Estou estudando Engenharia de Computação
 - 📫 Contate-me pelo email: marinasantosmms@gmail.com
 
 ##
